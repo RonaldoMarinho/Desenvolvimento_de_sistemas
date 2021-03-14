@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title> Desenvolvimento de sistemas </title>
+</head>
+	<body>
+	<h1> Atividade Desenvolvimento de sistemas</h1>
+	<h3> ALUNOS:<a> Hosana Emanuelly Pinheiro de Lima. </br> Ronaldo Bento Marinho Filho</a></br>TURMA: <a>I3M02</a></h3>
+		<script>
+			document.write("Olá, mundo!");
+		</script>
+		
+	</body>
+</html>
