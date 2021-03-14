@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title> Desenvolvimento de sistemas </title>
+</head>
+	<body>
+	<h1> Atividade Desenvolvimento de sistemas</h1>
+	<h3> ALUNOS:<a> Hosana Emanuelly Pinheiro de Lima. </br> Ronaldo Bento Marinho Filho</a></br>TURMA: <a>I3M02</a></h3>
+	
+		<script type="text/javascript">
+			  var nome = prompt('Digite seu nome: ');
+			  var idade = prompt ('Digite sua data de nascimento: ')
+				alert(nome + ', Sua data de nascimento é : ' + idade);
+		</script>
+		
+	</body>
+</html>
